@@ -1,5 +1,5 @@
 # IngosTech
-Тестовое задания для INGOSTECH7.0
+Тестовое задание для INGOSTECH7.0
 
 Написано на Java. v1.8
 
