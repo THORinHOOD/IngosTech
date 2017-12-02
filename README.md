@@ -1,5 +1,5 @@
 # IngosTech
 Тестовое задания для INGOSTECH7.0
-Исходный код лежит : IngosTechTest/src/com/catwithbowtie/
+Исходный код : IngosTechTest/src/com/catwithbowtie/
 
 Загитов Асгар.
